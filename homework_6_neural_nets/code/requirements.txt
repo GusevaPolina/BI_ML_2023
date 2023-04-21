@@ -1,0 +1,6 @@
+ipython==7.34.0
+Markdown==3.4.1
+matplotlib==3.2.2
+numpy==1.21.6
+torch==2.0.0
+torchvision==0.15.1
